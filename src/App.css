@@ -1,0 +1,16 @@
+ html{
+   width:100%;
+   text-align: center;
+   background-color: rgb(170, 170, 170);
+ }
+ .mainDiv{
+  width:70%;
+  margin: auto;
+ } 
+ 
+ .container{
+  border: solid;
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+ }
